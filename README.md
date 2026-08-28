@@ -1,2 +1,2 @@
 # padroes-desenvolvimento-web-4c-2026-02
-Back-end do PI
+Projeto referente ao backend do Projeto Integrador IV
